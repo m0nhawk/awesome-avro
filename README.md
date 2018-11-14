@@ -1,4 +1,4 @@
-# Awesome avro
+# Awesome avro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="http://avro.apache.org/images/avro-logo.png" width="296" align="right" alt="apache-avro">](https://github.com/m0nhawk/awesome-avro)
 
 > A curated list of awesome things for **Avro** serialization format.
 
