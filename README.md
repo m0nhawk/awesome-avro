@@ -40,6 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [avro-cli-examples](https://github.com/miguno/avro-cli-examples) &ndash; Examples on how to use the command line tools in Avro Tools to read and write Avro files
 * [rq](https://github.com/dflemstr/rq) &ndash; Record Query - A tool for doing record analysis and transformation
 * [avrodoc](https://github.com/ept/avrodoc) &ndash; Documentation tool for Avro schemas
+* [avro-schema-viewer](https://github.com/bolcom/avro-schema-viewer) &ndash; Visualizer for Avro Schemas (.avsc)
 
 ## Contribute
 
